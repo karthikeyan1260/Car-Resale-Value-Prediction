@@ -168,7 +168,7 @@ Add screenshots of the landing page, input form and result page here.
 
 **Karthikeyan**
 Chennai, India
-[LinkedIn](https://www.linkedin.com/in/karthikeyans12/) · [GitHub](add-lin)
+[LinkedIn](https://www.linkedin.com/in/karthikeyans12/) · [GitHub](https://github.com/karthikeyan1260)
 
 ## 📄 License
 
